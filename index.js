@@ -1,2 +1,5 @@
-var add = (a, b) => a + b
-var subtract = (a, b) => a - b
+function add(a, b) {
+  return a + b
+}function add(a, b) {
+  return a + b
+}
